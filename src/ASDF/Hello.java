@@ -11,8 +11,11 @@ public class Hello {
         Hours.hours();
         Arithmetic.arithmetic();
         Floating.floating();
-
-
+        NewLine.newLine();
+        System.out.println("First line.");
+        NewLine.threeLine();
+        System.out.println("Second line.");
+        PrintTwice.printTwice("Super!"); //tuleb kirjutada siia 2 korda see sõna või lause
 
 
 
